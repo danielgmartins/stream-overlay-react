@@ -104,6 +104,29 @@ void main() {
 }
 `;
 
+/** Builder used for building UI for changing settings */
+export const BalatroSettings = {
+  color1: {
+    type: "color",
+    default: "#de443b",
+  },
+  color2: {
+    type: "color",
+    default: "#de443b",
+  },
+  pixelation: {
+    type: "number",
+    default: 756,
+    min: 0,
+    max: 2000,
+    step: 1,
+  },
+  rotate: {
+    type: "boolean",
+    default: false,
+  },
+};
+
 export default function Balatro({
   spinRotation = -2.0,
   spinSpeed = 7.0,
