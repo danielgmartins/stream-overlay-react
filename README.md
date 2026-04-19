@@ -1,18 +1,25 @@
-# Welcome to React Router!
+# Stream Browser Overlay
+An application meant to run animations or other visual effects that can be added as a browser source on a Streaming tool such as OBS.   
 
-A modern, production-ready template for building full-stack React applications using React Router.
+This also incluedes an background switcher to swtich between backgrounds.  
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+Future plans include: 
+- Customize shader's settings
+- Saving custom settings per shader
+Other possible faetures might be:
+- Scenes per route
+- Transitions (?)
+
 
 ## Features
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+- 📖 [Built from React Router](https://reactrouter.com/)
+- 🎆 [Background and Shader effects from React Bits](https://reactbits.dev/)
+
+
+## Index
+- [Features](##Features)
+- [Getting Started](##Getting Started)
 
 ## Getting Started
 
