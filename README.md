@@ -1,4 +1,5 @@
 # Stream Browser Overlay
+
 An application meant to run animations or other visual effects that can be added as a browser source on a Streaming tool such as OBS.   
 
 This also incluedes an background switcher to swtich between backgrounds.  
@@ -10,11 +11,13 @@ Other possible faetures might be:
 - Scenes per route
 - Transitions (?)
 
+![](./docs/showcase_v0.jpeg)
+
 
 ## Features
 
 - 📖 [Built from React Router](https://reactrouter.com/)
-- 🎆 [Background and Shader effects from React Bits](https://reactbits.dev/)
+- 🎆 Background and Shader effects from [React Bits](https://reactbits.dev/)
 
 
 ## Index
