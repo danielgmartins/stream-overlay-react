@@ -3,7 +3,7 @@
  * Project: ReactBits | Github: https://github.com/DavidHDev/react-bits
  */
 
-import "../../../css/preview-slider.css";
+import "~/css/preview-slider.css";
 
 const PreviewSwitch = ({ title, isChecked, onChange, isDisabled }) => {
   const handleChange = () => {

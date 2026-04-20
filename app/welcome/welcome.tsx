@@ -1,6 +1,4 @@
 "use client";
-import logoDark from "./logo-dark.svg";
-import logoLight from "./logo-light.svg";
 
 import Selector from "~/components/selector/selector";
 import { Suspense, useState } from "react";

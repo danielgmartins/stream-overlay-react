@@ -105,7 +105,7 @@ void main() {
 `;
 
 /** Builder used for building UI for changing settings */
-export const BalatroSettings = {
+export const Settings = {
   color1: {
     type: "color",
     default: "#de443b",
